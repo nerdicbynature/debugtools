@@ -23,8 +23,9 @@ kubectl exec -ti debugtools -- /bin/bash
 ```
 
 
-### Packages/tools included
+### Overview of included packages and tools
 
+The following tools are included. 
 
 #### curl
 
@@ -35,7 +36,7 @@ Package includes the following commands
 #### openssl
 
 Package includes the following commands
- * curl
+ * openssl
 
 Kubernetes example: Show certs
 ```shell
