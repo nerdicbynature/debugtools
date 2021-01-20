@@ -1,6 +1,6 @@
 FROM alpine:3.13
 
-MAINTAINER Andre Machowiak <github@machowiak.de>
+MAINTAINER Andre Machowiak <andre.machowiak@plusserver.com>
 
 
 RUN apk update && apk add bash busybox-extras tcpdump curl openssl nmap net-tools \
